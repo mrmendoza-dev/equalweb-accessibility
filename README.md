@@ -5,6 +5,6 @@
 #### To integrate into website
 - Create account on [EqualWeb](https://www.equalweb.com/)
 - Add a new site to your account [here](https://login.equalweb.com/?page=siteProcess)
-- Use script tag provided in your html, OR copy your sitekey into the AccessibilityScript function here
+- Paste the provided script tag in your index.html, OR copy your sitekey into the AccessibilityScript function here
 
 ![EqualWeb Sidebar](./src/assets/equalweb-sidebar.png)
