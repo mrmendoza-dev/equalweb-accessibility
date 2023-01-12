@@ -3,7 +3,7 @@ import AccessibilityScript from './AccessibilityScript '
 
 function App() {
 
-  AccessibilityScript();
+  AccessibilityScript("4b2f3cfa90b07248ac5141e99a47cbd0");
 
   return (
     <div className="App">
